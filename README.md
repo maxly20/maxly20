@@ -46,6 +46,6 @@
 <p align="center">
 <a href="https://www.maxly20.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.maxly20.com-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/maxly20/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-maxly20-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/maxly20/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-maxly20__-blue?style=flat-square&logo=instagram"></a>
+<a href="https://www.instagram.com/maxly20/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-maxly20-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:maxly20@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-maxly2011@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
