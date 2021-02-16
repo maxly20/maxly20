@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Bio Engineering & Bussiness Management, currently living in Melbourne Australia.
+- 🎓 &nbsp; Bachelor of Bio-Engineering & Master of Bussiness Management, currently living in Melbourne Australia.
 - 💼 &nbsp; 10 years of experience working in Marketing, Photography and Graphic Design.
 - 🌱 &nbsp; Discovered coding by chance and felt in love, hard. Now it's the only thing I aspire to do. Can sit at desk coding for 12+ hours straight like it's nothing.
 - ✍️ &nbsp; Pursuing a Career in Programming and building things for the web.
