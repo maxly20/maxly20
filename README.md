@@ -31,7 +31,7 @@
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
   ![XD](https://img.shields.io/badge/-AdobeXD-333333?style=flat&logo=adobe-xd)
   ![InDesign](https://img.shields.io/badge/-AdobeLightroomClassic-333333?style=flat&logo=adobe-lightroom-classic)
-  ![PremierPro](https://img.shields.io/badge/-AdobePremierPro-333333?style=flat&logo=adobe-premier-pro)
+  ![PremierePro](https://img.shields.io/badge/-AdobePremierePro-333333?style=flat&logo=adobe-premiere-pro)
 
 <br/>
 
