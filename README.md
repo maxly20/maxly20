@@ -42,6 +42,7 @@
 <h3> 💻 &nbsp;Tech I'm learning</h3>
 - 🌐 &nbsp;
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+  
 - 🛢 &nbsp;
   ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=aws)
 
