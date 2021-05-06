@@ -36,16 +36,6 @@
   ![XD](https://img.shields.io/badge/-AdobeXD-333333?style=flat&logo=adobe-xd)
   ![InDesign](https://img.shields.io/badge/-AdobeLightroomClassic-333333?style=flat&logo=adobe-lightroom-classic)
   ![PremierePro](https://img.shields.io/badge/-AdobePremierePro-333333?style=flat&logo=adobe-premiere-pro)
-
-<br/>
-
-<h3> 💻 &nbsp;Tech I'm learning</h3>
-- 🌐 &nbsp;
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
-  
-- 🛢 &nbsp;
-  ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=aws)
-
   
 <br/>
 
