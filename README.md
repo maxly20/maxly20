@@ -39,6 +39,15 @@
 
 <br/>
 
+<h3> 💻 &nbsp;Tech I'm learning</h3>
+- 🌐 &nbsp;
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+- 🛢 &nbsp;
+  ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=aws)
+
+  
+<br/>
+
 <a href="https://github.com/maxly20">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maxly20&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxly20&theme=buefy&layout=compact" />
