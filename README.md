@@ -39,8 +39,8 @@
 <br/>
 
 <a href="https://github.com/maxly20">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maxly20&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxly20&theme=buefy&layout=compact" />
+  <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=maxly20&theme=buefy&show_icons=true" />
+  <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxly20&theme=buefy&layout=compact" />
 </a>
 
 <br/>
