@@ -5,7 +5,7 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Bachelor of Bio-Engineering & Master of Bussiness Management, currently living in Melbourne, Australia.
 - 💼 &nbsp; 10 years of experience working in Marketing, Photography and Graphic Design.
-- 🌱 &nbsp; Discovered coding by chance and fell in love, hard. Now it's the only thing I aspire to do.
+- 🌱 &nbsp; Discovered programming by chance and fell in love, hard. Now it's the only thing I aspire to do.
 - ✍️ &nbsp; Pursuing a Career in Programming and Building things for the web.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
